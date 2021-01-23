@@ -1,7 +1,7 @@
 # Math-Physics
 
 # Zeros de funções:
-Métodos de como encontrar valores $x$ tal que uma função $y$ se anule em $x$: $y(x) = 0$.
+Métodos de como encontrar valores <img src="https://render.githubusercontent.com/render/math?math=x"> tal que uma função $y$ se anule em $x$: $y(x) = 0$.
 
 # Sistemas de equações lineares:
 Como resolver automaticamente aqueles sistemas chatos de equações que a gente aprende no ensino médio, mas de maneira bem mais rápida e eficiente.
